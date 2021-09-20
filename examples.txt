@@ -1,0 +1,11 @@
+20	AB + C -
+21	AB + C -
+10	++A-*^BCD/+EF*GHI
+01	$$
+12	++A-*^BCD/+EF*GHI
+10	+^*AB/CD+EFG
+02	A+B/C^(D+E/G)
+12	^X + Y /Z * A + B C
+21	ABCDEF+*/+^
+01	A*B^(C/(D+E))
+02	(A+B)/(C^(D+E)+F/G)
